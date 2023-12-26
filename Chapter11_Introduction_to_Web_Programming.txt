@@ -1,0 +1,46 @@
+Title: "Programming Fundamentals: From Basics to Proficiency"
+
+#### Chapter 11: Introduction to Web Programming
+
+##### Overview of web development
+Web development is a broad term for the work involved in developing a website for the Internet or an intranet. It can range from developing a simple single static page of plain text to complex web-based internet applications, electronic businesses, and social network services. Web development usually involves client-side/server-side scripting, web server and network security configuration, and e-commerce development.
+
+##### Understanding HTML, CSS, and JavaScript
+HTML (HyperText Markup Language), CSS (Cascading Style Sheets), and JavaScript are the three core technologies used in creating web pages and web applications.
+
+HTML is used to structure content on the web. It uses tags to denote different types of content, such as headings, paragraphs, and tables.
+
+CSS is used to style the HTML content and layout of the web page. It controls how the web page looks, including colors, fonts, and layouts.
+
+JavaScript is used to make the web page interactive. It can be used to create features like image sliders, form validations, responsive menus, and more.
+
+Here's a simple example of a web page using HTML, CSS, and JavaScript:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {background-color: powderblue;}
+        h1   {color: blue;}
+        p    {color: red;}
+    </style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+<button onclick="alert('Hello, World!')">Click me</button>
+
+</body>
+</html>
+```
+
+In this example, the HTML creates the structure, the CSS styles the page, and the JavaScript adds interactivity.
+
+##### Client-server architecture
+In web development, the client-server architecture is a model where a client (usually a web browser) sends a request to a server (usually a web application running on a web server), using the HTTP protocol. The server then responds to the client; this response is typically in the form of a web page.
+
+Remember, understanding these concepts is crucial to becoming a proficient web developer. Don't be afraid to experiment with different HTML tags, CSS properties, and JavaScript functions - that's part of the learning process!
+
+We hope that this chapter has given you a good introduction to the world of web programming. In the next chapter, we will delve deeper into databases and SQL.

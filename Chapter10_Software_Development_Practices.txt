@@ -1,0 +1,16 @@
+Title: "Programming Fundamentals: From Basics to Proficiency"
+
+#### Chapter 10: Software Development Practices
+
+##### Understanding the software development lifecycle
+The software development lifecycle (SDLC) is a framework that defines the process used by organizations to build an application from its inception to its end. The SDLC consists of several stages including planning, analysis, design, implementation, testing, deployment, and maintenance. Each stage has its own process and deliverables that feed into the next stage.
+
+##### Introduction to version control systems
+Version control systems are a category of software tools that help a software team manage changes to source code over time. They keep track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
+
+##### Basics of testing and maintenance
+Testing is a critical phase of the SDLC that involves the execution of a software component or system component to evaluate one or more properties of interest. It helps identify bugs and ensure that the software is working as expected. Maintenance, on the other hand, involves activities such as correcting faults, improving performance or other attributes, or adapting the product to a modified environment.
+
+Remember, understanding these software development practices is crucial to becoming a proficient programmer. Don't be afraid to experiment with different version control systems and testing techniques - that's part of the learning process!
+
+We hope that this chapter has given you a good understanding of the software development practices. In the next chapter, we will delve deeper into web programming.

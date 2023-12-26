@@ -1,0 +1,20 @@
+Title: "Programming Fundamentals: From Basics to Proficiency"
+
+#### References
+
+This eBook has been created with the help of numerous resources. Here are some of the key references that were used in the creation of this book:
+
+1. "Introduction to Programming in Java: An Interdisciplinary Approach" by Robert Sedgewick and Kevin Wayne
+2. "Python Crash Course: A Hands-On, Project-Based Introduction to Programming" by Eric Matthes
+3. "Eloquent JavaScript: A Modern Introduction to Programming" by Marijn Haverbeke
+4. "You Don't Know JS: Up & Going" by Kyle Simpson
+5. "The Pragmatic Programmer: Your Journey to Mastery" by Andrew Hunt and David Thomas
+6. "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
+7. "Code Complete: A Practical Handbook of Software Construction" by Steve McConnell
+8. "Design Patterns: Elements of Reusable Object-Oriented Software" by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
+9. "Refactoring: Improving the Design of Existing Code" by Martin Fowler
+10. "Introduction to the Theory of Computation" by Michael Sipser
+
+In addition to these books, various online resources such as Stack Overflow, Mozilla Developer Network (MDN), and W3Schools were also used extensively.
+
+Please note that while we have done our best to provide accurate and up-to-date information, programming is a rapidly evolving field, and it is always a good idea to refer to the official documentation of the respective programming languages and tools for the most accurate information.

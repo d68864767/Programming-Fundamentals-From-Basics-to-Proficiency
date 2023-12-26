@@ -1,0 +1,24 @@
+Title: "Programming Fundamentals: From Basics to Proficiency"
+
+#### Chapter 12: Databases and SQL
+
+##### Basics of relational databases
+Relational databases are a type of database that organizes data into tables. Each table, also known as a relation, consists of rows and columns. Each row represents a unique record, and each column represents a field of the record. The structure of a relational database allows for easy data manipulation and querying.
+
+##### Introduction to SQL
+SQL, or Structured Query Language, is a programming language used to communicate with and manipulate databases. It is particularly effective with relational databases. With SQL, you can create, read, update, and delete records in a database. You can also create and modify the structure of database systems, and control access to its data.
+
+Here's a simple example of a SQL query:
+
+```sql
+SELECT * FROM Employees WHERE Age > 30;
+```
+
+In this example, the query selects all records from the 'Employees' table where the 'Age' field is greater than 30.
+
+##### Performing basic database operations
+There are several basic operations that you can perform on a database. These include creating a new database, creating a new table, inserting data into a table, updating existing data in a table, deleting data from a table, and querying data from a table. These operations correspond to the SQL commands CREATE, INSERT, UPDATE, DELETE, and SELECT, respectively.
+
+Remember, understanding databases and SQL is crucial to becoming a proficient programmer, especially if you're interested in web development or data science. Don't be afraid to experiment with different database structures and SQL queries - that's part of the learning process!
+
+We hope that this chapter has given you a good understanding of databases and SQL. In the next chapter, we will delve into advanced topics and emerging trends in programming.
